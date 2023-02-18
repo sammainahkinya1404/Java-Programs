@@ -1,0 +1,18 @@
+Question|Are they strong with the Force?
+Question|Is their lightsaber red?
+Question|Do they need a mask to survive?
+Answer|Darth Vader
+Question|Can they use Force Lightning?
+Answer|The Emperor
+Answer|Kylo Ren
+Question|Is their lightsaber blue?
+Answer|Obi Wan Kenobi
+Answer|Yoda
+Question|Can they fly a ship?
+Question|Are they the best pilot in the Resistance?
+Answer|Poe Dameron
+Answer|Han Solo
+Question|Are they a Gungan?
+Answer|Jar Jar Binks
+Answer|Finn
+
